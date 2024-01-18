@@ -1,6 +1,9 @@
-# Power-BI---Business-Insights-360-- Dashboard Link -https://app.powerbi.com/view?r=eyJrIjoiNDQ3OTcyOWEtMWFjNS00YmM2LWExMjItMGYyNzU0YjQ0ZTg0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+# Power-BI---Business-Insights-360-- 
+Dashboard Link -https://app.powerbi.com/view?r=eyJrIjoiNDQ3OTcyOWEtMWFjNS00YmM2LWExMjItMGYyNzU0YjQ0ZTg0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 
 * 𝐏𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐭𝐥𝐲 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐓𝐞𝐜𝐡 𝐒𝐤𝐢𝐥𝐥𝐬 
+
 ☑️ Excel: Proficient in leveraging Excel for data analysis and manipulation.
 
 ☑️ Power Query: Skilled in using Power Query to transform and clean data efficiently.
