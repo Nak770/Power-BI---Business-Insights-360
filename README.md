@@ -1,5 +1,5 @@
 # Power-BI---Business-Insights-360
-* 𝐏𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐭𝐥𝐲 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐓𝐞𝐜𝐡 𝐒𝐤𝐢𝐥𝐥𝐬
+* 𝐏𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐭𝐥𝐲 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐓𝐞𝐜𝐡 𝐒𝐤𝐢𝐥𝐥𝐬 https://app.powerbi.com/groups/me/reports/20ca1d34-5b88-4e84-8557-d546ebd01559/ReportSection?experience=power-bi
 
 ☑️ Excel: Proficient in leveraging Excel for data analysis and manipulation.
 
